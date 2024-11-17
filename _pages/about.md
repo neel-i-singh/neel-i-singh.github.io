@@ -2,24 +2,44 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#profile:
+ # align: right
+  #image: prof_pic.jpg
+  #image_circular: false # crops the image to make it circular
+  #more_info: >
+  #  <p>555 your office number</p>
+  #  <p>123 your address street</p>
+  #  <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I’m a junior undergraduate at the University of North Carolina at Chapel Hill, pursuing a BS in Public Health with a Nutrition concentration at the Gillings School of Global Public Health, a second BS in Quantitative Biology, and a minor in Data Science. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am driven by the goal of creating innovative public health and clinical solutions to combat chronic diseases that undermine health and wellbeing worldwide. Drawing on my background in public health, quantiative biology, and data science, I integrate diverse methodologies to uncover the complex interactions between biological and socioeconomic factors that contribute to chronic disease risk. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## skills
+
+Statistical computing in R and Python, linear/logistic regression and ANOVA, basic machine learning, epidemiologic study design and data analysis, clinical trial study design and data analysis, data visualization in *ggplot2*, metabolic analysis and visualization with *py3dmol* and *escher*
+
+## research
+
+- Under the guidance of Drs. [Mike Kulis](https://www.med.unc.edu/pediatrics/foodallergy/lab/kulis-lab/) and [Edwin Kim](https://www.med.unc.edu/pediatrics/people/edwin-kim-md-ms/) (UNC), I have completed a first-author manuscript exploring mechanisms and biomarkers associated with patient success on peanut sublingual immunotherapy. The manuscript is currently under review by the *Journal of Allergy and Clinical Immunology*, with an abstract accepted for presentation at the *American Association of Allergy and Immunology 2025 Annual Meeting*.
+
+- Under the mentorship of [Dr. Corrine Keet](https://www.med.unc.edu/pediatrics/people/corinne-keet-md-phd/) (UNC), I am developing a machine learning methedology to identify neighborhood-specific risk and protective factors linked to asthma occurrence and exacerbation using restricted NHIS, Census, and HUD data.
+
+- Working with [Dr. Monique Bethell](https://www.capitalareafoodnetwork.org/leadership) (Capital Area Food Network), I co-authored a community-engaged analysis of trends in Indigenous food soverignty. Our findings were presented at the *American Public Health Association 2024 Annual Meeting*. 
+
+## teaching
+
+- Currently, I am teaching a graded, for-credit seminar course titled *Culinary Medicine: A Tool for Health Equity, Disease Prevention, and Disease Management* to fifteen undergraduate students. I developed this course from scratch under the guidance of [Dr. Alice Ammerman](https://sph.unc.edu/adv_profile/alice-ammerman-drph/). The syllabus and course materials can be found in the [projects tab](http://neel-i-singh.github.io/projects/). 
+
+- I have served as an Undergraduate Learning Assistant for [Dr. Matthew Lockett's](https://chem.unc.edu/faculty/Lockett-Matthew/) Analytical Chemistry course for three semesters, and [Dr. Eric Hastie's](https://bio.unc.edu/faculty-profile/hastie/) Biological Research Skills lab for one semester. 
+
+## clinical
+
+- I serve as a CNA in the Emergency Department at UNC Medical Center in Chapel Hill, NC. My work involves managing high-stress and high-acuity emergency situations, including triaging patients, monitoring vital signs, collecting specimens, performing EKGs, and other emergency nursing care.
