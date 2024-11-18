@@ -1,46 +1,64 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+# - title: General Information
+ # type: map
+ # contents:
+  #  - name: Name
+   #   value: Neel Singh
+    #- name: Date of Birth
+    #  value: 14th March 1879
+    #- name: Languages
+    #  value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Associate in Science
+      institution: Wake Technical Community College, Raleigh, NC
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - GPA 4.00
+        - Completed degree during junior and senior years of high school and graduated with High Honors.
+        - title: Relevant coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - CSC 151 - Introduction to JAVA Programming
+            - BIO 155 - Introduction to Human Nutrition
+            - MAT 152 - Introduction to Statistics and Probability
+            - MAT 271/272 - Calculus I/II
+    - title: BS Public Health in Nutrition; BS in Quantitative Biology; Minor in Data Science
+      institution: University of North Carolina at Chapel Hill, Chapel Hill, NC
+      year: Expected 2026
       description:
-        - Description 1.
-        - Description 2.
+        - GPA 4.00
+        - title: Data Science Coursework
+          contents:
+            - STOR 235 - Multivariable Calculus and Matrix Algebra for Data Science
+            - STOR 320 - Statistical Computing in R
+            - STOR 390 - Moral Machine Learning
+            - STOR 455 - Linear Modeling and ANOVA
+            - EPID 600 - Graduate Principles of Epidemiology for Public Health
+        - title: Basic Science Coursework
+          contents:
+            - BIOL 103 - Cellular Biology
+            - BIOL 220 - Molecular Genetics
+            - BIOL 252 - Human Anatomy and Physiology
+            - CHEM 241 - Analytical Chemistry
+            - CHEM 261/262 - Organic Chemistry I/II
+            - CHEM 430 - Biological Chemistry
+            - NUTR 400 - Nutritional Biochemistry and Metabolism
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: 
+      institution: UNC Medical Center Emergency Department
+      year: September 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Collaborate closely with a multidisciplinary healthcare team in a high-pressure emergency care environment to deliver rapid and comprehensive patient care.
+        - Advocate for patient welfare by promptly identifying and addressing urgent concerns, and effectively communicating critical information to the care team to ensure timely interventions.
+        - Perform a range of clinical tasks vital to emergency care, including measuring vital signs, initiating cardiac monitoring, collecting specimens, performing catheter care, conducting capillary blood glucose checks, bladder scans, range of motion exercises, incontinence management, and EKG lead placement.
+        - Utilize Epic electronic health records to document patient care activities, observations, and changes in condition with precision, ensuring continuity of care in a dynamic setting.
+        - Provide compassionate and personalized care to patients during acute medical situations, assisting with essential daily activities such as bathing, toileting, and feeding while maintaining patient dignity.
+        - Execute safe patient handling techniques, employing mechanical lifts, transfer devices, and patient transport protocols to prioritize both patient and staff safety during emergency procedures.
+        - Maintain a clean and safe environment by adhering to strict infection control measures, cleaning work areas, and ensuring that linens and patient areas are promptly attended to in compliance with emergency department standards.
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
