@@ -11,16 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: Associate in Science
-      institution: Wake Technical Community College, Raleigh, NC
+    - title: Wake Technical Community College
+      institution:
       year: 2022
-      description:
+      description: |
+        *Associate in Science* 
+        Raleigh,
         - GPA 4.00
         - Completed degree during junior and senior years of high school and graduated with High Honors.
-        - title: Relevant coursework
+        - Data Science Coursework
           contents:
             - CSC 151 - Introduction to JAVA Programming
-            - BIO 155 - Introduction to Human Nutrition
             - MAT 152 - Introduction to Statistics and Probability
             - MAT 271/272 - Calculus I/II
     - title: BS Public Health in Nutrition; BS in Quantitative Biology; Minor in Data Science
@@ -45,57 +46,93 @@
             - CHEM 430 - Biological Chemistry
             - NUTR 400 - Nutritional Biochemistry and Metabolism
 
+- title: Research
+  type: time_table
+  contents:
+    - title: UNC Children's Research Institute
+      institution: UNC School of Medicine, Chapel Hill, NC
+      year: Sep 2024 - Now
+      description:
+        - Collaborate with a healthcare team in a high-pressure emergency environment to deliver rapid, comprehensive care.
+        - Perform essential emergency care tasks, including triaging patients, vital signs monitoring, initiating cardiac monitoring, taking EKGs, specimen collection, catheter care, glucose checks, bladder scans, incontinence management, and psychiatric care.
+        - Provide compassionate care by addressing urgent concerns, communicating effectively, and ensuring timely intervention.
+        - Document patient care and observations in Epic el
+    - title: UNC Food Allergy Initiative - Kulis Lab
+      institution: UNC School of Medicine, Chapel Hill, NC
+      year: Jan 2023 - Now
+      description:
+        - Collaborate with a healthcare team in a high-pressure emergency environment to deliver rapid, comprehensive care.
+        - Perform essential emergency care tasks, including triaging patients, vital signs monitoring, initiating cardiac monitoring, taking EKGs, specimen collection, catheter care, glucose checks, bladder scans, incontinence management, and psychiatric care.
+        - Provide compassionate care by addressing urgent concerns, communicating effectively, and ensuring timely intervention.
+        - Document patient care and observations in Epic el
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Emergency Department Technician
+      institution: UNC Medical Center Emergency Department, Chapel Hill, NC
+      year: Sep 2023 - Now
+      description:
+        - Collaborate with a healthcare team in a high-pressure emergency environment to deliver rapid, comprehensive care.
+        - Perform essential emergency care tasks, including triaging patients, vital signs monitoring, initiating cardiac monitoring, taking EKGs, specimen collection, catheter care, glucose checks, bladder scans, incontinence management, and psychiatric care.
+        - Provide compassionate care by addressing urgent concerns, communicating effectively, and ensuring timely intervention.
+        - Document patient care and observa
+
 - title: Experience
   type: time_table
   contents:
-    - title: 
-      institution: UNC Medical Center Emergency Department
-      year: September 2023 - Present
+    - title: Emergency Department Technician
+      institution: UNC Medical Center Emergency Department, Chapel Hill, NC
+      year: Sep 2023 - Now
       description:
-        - Collaborate closely with a multidisciplinary healthcare team in a high-pressure emergency care environment to deliver rapid and comprehensive patient care.
-        - Advocate for patient welfare by promptly identifying and addressing urgent concerns, and effectively communicating critical information to the care team to ensure timely interventions.
-        - Perform a range of clinical tasks vital to emergency care, including measuring vital signs, initiating cardiac monitoring, collecting specimens, performing catheter care, conducting capillary blood glucose checks, bladder scans, range of motion exercises, incontinence management, and EKG lead placement.
-        - Utilize Epic electronic health records to document patient care activities, observations, and changes in condition with precision, ensuring continuity of care in a dynamic setting.
-        - Provide compassionate and personalized care to patients during acute medical situations, assisting with essential daily activities such as bathing, toileting, and feeding while maintaining patient dignity.
-        - Execute safe patient handling techniques, employing mechanical lifts, transfer devices, and patient transport protocols to prioritize both patient and staff safety during emergency procedures.
-        - Maintain a clean and safe environment by adhering to strict infection control measures, cleaning work areas, and ensuring that linens and patient areas are promptly attended to in compliance with emergency department standards.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Collaborate with a healthcare team in a high-pressure emergency environment to deliver rapid, comprehensive care.
+        - Perform essential emergency care tasks, including triaging patients, vital signs monitoring, initiating cardiac monitoring, taking EKGs, specimen collection, catheter care, glucose checks, bladder scans, incontinence management, and psychiatric care.
+        - Provide compassionate care by addressing urgent concerns, communicating effectively, and ensuring timely intervention.
+        - Document patient care and observations in Epic electronic health records to ensure care continuity in a dynamic setting.
+    - title: Food Systems Intern 
+      institution: Upper Coastal Plain Council of Governments, Wilson, NC
+      year: Summer 2023
+      description:
+        - Conducted economic research to support multi-region Tri-Council of Government Food Ecosystem Economic Development Study to examine approaches to improve healthy food access and promote an equitable food system.
+        - Led research and writing of $50K grant proposal to support Haliwa-Saponi Tribal Nutrition Outreach program.
+        - Wrote comprehensive regional economic background portion of organization’s 5-year strategy plan.
+
+- title: Community Engagement
+  type: time_table
+  contents:
+    - title: 
+      institution: UNC Medical Center Emergency Department, Chapel Hill, NC
+      year: Sep 2022 - Now
+      description:
+        - Lead team of 20 students in creating public health nutrition initiatives centered on students and underserved communities.
+        - Engage with Chapel Hill community members to promote healthy and sustainable nutrition habits, focusing on guiding low-income individuals in navigating the food system and emphasizing the essentials of a nutritious diet.
+        - Conduct budget-friendly cooking demos and provide education at Carrboro Farmer’s Market and SECU Family House.
+    - title: Research Technician
+      institution: UNC School of Medicine Pediatric Food Allergy Initiative, Chapel Hill, NC
+      year: Jan 2023 - Present
       description:
         - Description 1.
         - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Food Systems Intern 
+      company: Upper Coastal Plain Council of Governments, Wilson, NC
+      year: Summer 2023
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Conducted economic research to support multi-region Tri-Council of Government Food Ecosystem Economic Development Study to examine approaches to improve healthy food access and promote an equitable food system.
+        - Led research and writing of $50K grant proposal to support Haliwa-Saponi Tribal Nutrition Outreach program.
+        - Wrote comprehensive regional economic background portion of organization’s 5-year strategy plan
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Phi Beta Kappa – Recognized for academic excellence in the liberal arts and sciences.
+        - C-START – Competitive teaching program allowing undergraduates to develop and instruct a for-credit course of their own design.
+        - Summer Undergraduate Research Fellowship – Awarded $4000 grant for conducting summer research in food allergy.
+    - year: 2023
       items:
-        - Max Planck Medal
+        - SECU Public Fellow – Funded fellowship connecting 18 UNC students with nonprofits to bring change to rural NC.
+        - Honors Carolina – Competitive four-year academic program enrolling 10% of each incoming class.
 
 - title: Academic Interests
   type: nested_list

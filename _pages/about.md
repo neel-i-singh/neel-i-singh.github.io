@@ -24,12 +24,13 @@ I am driven by the goal of creating innovative public health and clinical soluti
 
 ## skills
 
-- Statistical computing in R and Python with *tidyverse* and *pandas*
+- Statistical computing in R and Python
 - Modeling with linear/logistic regression and ANOVA
-- Machine learning classificaition/regression with KNN, SVM, decision trees, and random forest
+- Machine learning classification/regression with KNN, SVM, decision trees, and random forest
 - Explainable machine learning
 - Data visualization in *ggplot2*
-- Epidemiologic study design (cohort, case/control, cross-sectional) and data analysis
+- Document producution in LaTeX and markdown?
+- Epidemiological study design (cohort, case/control, cross-sectional) and data analysis
 - Clinical trial study design and data analysis
 - Metabolic analysis and visualization with *py3dmol* and *escher*
 - Bench lab skills (ImmunoCAP, ELISA, PCR, cell culturing)
