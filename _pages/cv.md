@@ -10,7 +10,7 @@ toc:
   sidebar: left
 ---
 
-Download a PDF copy [here](https://www.med.unc.edu/pediatrics/foodallergy/lab/kulis-lab/).
+Download an abridged PDF copy [here](https://www.med.unc.edu/pediatrics/foodallergy/lab/kulis-lab/).
 
 ***
 
@@ -50,15 +50,15 @@ July 2022
 
 ***
 
-##### **honors**
-2024
-- Phi Beta Kappa – Recognized for academic excellence in the liberal arts and sciences.
-- C-START – Competitive teaching program allowing undergraduates to develop and instruct a for-credit course of their own design.
-- Summer Undergraduate Research Fellowship – Awarded $4000 grant for conducting summer research in food allergy.   
+## honors
+##### **2024**
+- **Phi Beta Kappa** – Recognized for academic excellence in the liberal arts and sciences.
+- **C-START** – Competitive teaching program allowing undergraduates to develop and instruct a for-credit course of their own design.
+- **Summer Undergraduate Research Fellowship** – Awarded $4000 grant for conducting summer research in food allergy.   
 
-2023 
-- SECU Public Fellow – Funded fellowship connecting 18 UNC students with nonprofits to bring change to rural NC.
-- Honors Carolina – Competitive four-year academic program enrolling 10% of each incoming class.
+##### **2023** 
+- **SECU Public Fellow** – Funded fellowship connecting 18 UNC students with nonprofits to bring change to rural NC.
+- **Honors Carolina** – Competitive four-year academic program enrolling 10% of each incoming class.
 
 ***
 
@@ -90,21 +90,21 @@ July 2023 - Present
 ## teaching 
 
 ##### **Course Instructor -** ***Culinary Medicine: A Tool for Health Equity, Disease Prevention, and Disease Management***   
-SPCL 400.308
+**SPCL 400.308**  
 Spring 2025  
 University of North Carolina at Chapel Hill  
 - Text
 - Text
 
 ##### **Undergraduate Learning Assistant -** ***Analytical Chemistry***   
-CHEM 241  
+**CHEM 241**  
 Spring 2024, Summer I 2024, and Fall 2024  
 University of North Carolina at Chapel Hill  
 - Text
 - Text
 
 ##### **Undergraduate Learning Assistant -** ***Biological Research Skills Lab***   
-BIOL 105L  
+**BIOL 105L**  
 Fall 2023  
 University of North Carolina at Chapel Hill  
 - Text
@@ -138,10 +138,10 @@ May 2023 - August 2023
 ##### **Culinary Medicine Student Organization**
 Chapel Hill, NC  
 September 2022 - Present  
-***Co-chair of Education/Outreach***
+***Co-chair of Education and Outreach***
 - Text
 - Text
 
 ##### **Volunteer Experience**
-- Inter-Faith Council (IFC) Community Kitchen - Cook and serve hot meals for IFC House residents
-- Get Covered Carolina - Navigate complexities of insurance coverage and Affordable Care Act for low-income families
+- **Inter-Faith Council (IFC) Community Kitchen** - Cook and serve hot meals for IFC House residents.
+- **Get Covered Carolina** - Navigate complexities of insurance coverage and Affordable Care Act for low-income families.
