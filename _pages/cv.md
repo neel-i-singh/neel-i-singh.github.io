@@ -10,7 +10,7 @@ toc:
   sidebar: left
 ---
 
-Download an abridged PDF copy [here](https://www.med.unc.edu/pediatrics/foodallergy/lab/kulis-lab/).
+Download an abridged PDF copy [here](https://www.unc.edu/).
 
 ***
 
@@ -42,7 +42,7 @@ Raleigh, NC
 July 2022    
 ***Associate in Science***
 - GPA 4.00
-- Completed degree during junior and senior years of high school and graduated with High Honors
+- Completed degree during junior and senior years of high school.
 - Data Science Coursework
   - CSC 151 - Introduction to JAVA Programming
   - MAT 152 - Introduction to Statistics and Probability
@@ -59,6 +59,9 @@ July 2022
 ##### **2023** 
 - **SECU Public Fellow** – Funded fellowship connecting 18 UNC students with nonprofits to bring change to rural NC.
 - **Honors Carolina** – Competitive four-year academic program enrolling 10% of each incoming class.
+
+##### **2022** 
+- **Wake Technical Community College** – Awarded the distinction of High Honors for academic excellence upon graduating with an Associate in Science.
 
 ***
 
@@ -118,18 +121,18 @@ University of North Carolina at Chapel Hill
 Chapel Hill, NC  
 September 2023 - Present  
 ***Emergency Department Technician / Nursing Assistant I***
-- Collaborate with a healthcare team in a high-pressure emergency environment to deliver rapid, comprehensive care.
+- Collaborate with healthcare team in a high-pressure emergency environment to deliver rapid, comprehensive care.
 - Perform essential emergency care tasks, including triaging patients, vital signs monitoring, initiating cardiac monitoring, taking EKGs, specimen collection, catheter care, glucose checks, bladder scans, incontinence management, and psychiatric care.
-- Provide compassionate care by addressing urgent concerns, communicating effectively, and ensuring timely intervention.
+- Deliver compassionate care to a diverse patient population, including non-English speakers, pregnant women, pediatric, geriatric, undocumented, and incarcerated individuals.
 - Document patient care and observations in Epic electronic health records to ensure care continuity in a dynamic setting.
 
 ##### **Upper Coastal Plain Council of Governments**
 Wilson, NC  
 May 2023 - August 2023  
 ***Food Systems Intern***
-- Conducted economic research to support multi-region Tri-Council of Government Food Ecosystem Economic Development Study to examine approaches to improve healthy food access and promote an equitable food system.
-- Led research and writing of $50K grant proposal to support Haliwa-Saponi Tribal Nutrition Outreach program.
-- Wrote comprehensive regional economic background portion of organization’s 5-year strategy plan.
+- Authored a $50K grant proposal to support Haliwa-Saponi Tribal Nutrition Outreach program, securing resources for long-term community health improvement.
+- Wrote comprehensive regional economic background portion of organization’s 5-year strategy plan, setting a framework for future development and public health initiatives across the five-county region.
+- Conducted economic and public health research to support multi-region Tri-Council of Government Food Ecosystem Economic Development Study to examine approaches to improve healthy food access and promote an equitable food system.
 
 ***
 
@@ -139,8 +142,9 @@ May 2023 - August 2023
 Chapel Hill, NC  
 September 2022 - Present  
 ***Co-chair of Education and Outreach***
-- Text
-- Text
+- Lead a team of 20 students to develop public health nutrition initiatives across the greater Chapel Hill area, focusing on empowering low-income individuals to navigate the food system and adopt nutritious diets.
+- Build partnerships with local organizations, including SECU Family House and Carrboro Farmer’s Market, to implement budget-friendly cooking demonstrations and educational sessions, promoting accessible and practical dietary solutions.
+- Selected as an inaugural member and the sole undergraduate representative on the American College of Culinary Medicine’s national Culinary Medicine Interest Group Committee, developing sustainable resources and frameworks to support and expand Culinary Medicine initiatives nationwide.
 
 ##### **Volunteer Experience**
 - **Inter-Faith Council (IFC) Community Kitchen** - Cook and serve hot meals for IFC House residents.

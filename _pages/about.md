@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I’m a junior undergraduate at the University of North Carolina at Chapel Hill, pursuing a BS in Public Health with a Nutrition concentration at the Gillings School of Global Public Health, a second BS in Quantitative Biology, and a minor in Data Science. 
 
-I am driven by the goal of creating innovative public health and clinical solutions to combat chronic diseases that undermine health and wellbeing worldwide. Drawing on my background in public health, quantiative biology, and data science, I integrate diverse methodologies to uncover the complex interactions between biological and socioeconomic factors that contribute to chronic disease risk. 
+I am driven by the goal of creating innovative public health and clinical solutions to combat chronic diseases that undermine health and wellbeing worldwide. Drawing on my background in public health, quantitative biology, and data science, I integrate diverse methodologies to uncover the complex interactions between biological and socioeconomic factors that contribute to chronic disease risk. At the heart of my work is a commitment to increasing both the quality and equity of health outcomes, ensuring that advancements in healthcare benefit individuals and communities across all socioeconomic and demographic backgrounds.
 
 ## skills
 
