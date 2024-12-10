@@ -14,7 +14,7 @@ Download an abridged PDF copy [here](https://www.unc.edu/).
 
 ***
 
-## education  
+## education 
 
 ##### **University of North Carolina at Chapel Hill**
 Chapel Hill, NC  
